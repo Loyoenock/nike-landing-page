@@ -43,7 +43,7 @@ const Footer = () => {
                       <a>{link.name}</a>
                     </li>
                   ))}
-                </ul>
+                </ul> 
               </div>
             ))}
         </div>
